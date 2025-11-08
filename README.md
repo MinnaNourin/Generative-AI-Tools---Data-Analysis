@@ -43,7 +43,7 @@ This analysis uses Python’s data visualization libraries to uncover insights s
 ---
 
 ## 📸 Sample Visualization
-Number of Tools released per year  <img src="C:\Users\Minna nourin\OneDrive\Pictures\Screenshots\Screenshot 2025-11-08 220342.png" width="200" height="400">
+Number of Tools released per year  <img src="desktop/seaborn/images/Screenshot 2025-11-08 220310.png" width="200" height="400">
 AI Tools Released per Year by Category <img src="C:\Users\Minna nourin\OneDrive\Pictures\Screenshots\Screenshot 2025-11-08 220806.png" width="200" height="400">
 Top 10 Companies by AI Tools and Supported Modalities <img srsc="C:\Users\Minna nourin\OneDrive\Pictures\Screenshots\Screenshot 2025-11-08 220326.png"  width="200" height="400">
 Heatmap visualaization(category vs modality) <img srsc="C:\Users\Minna nourin\OneDrive\Pictures\Screenshots\Screenshot 2025-11-08 220310.png" width="200" height="400">
